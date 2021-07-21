@@ -1,7 +1,7 @@
 ## Professores
 
 ### Alisson Chiquitto
-<img src="https://webdev.alfaumuarama.edu.br/arquivos/1576068420g.jpg" width="100">
+<img src="ht tps://webdev.alfaumuarama.edu.br/arquivos/1576068420g.jpg" width="100">
 Mestre em Ciência da Computação pela UEM. Possui especializações em Docência na Tecnologia, em Desenvolvimento de Sistemas para Internet e MBA em Gerencia e Projetos e Governança em TI. Atuou como desenvolvedor Mobile na Marknet e Magaleios. Atualmente é coordenador e professor no IFMS de Naviraí e professor de Pós-Graduação na FAU.
 
 ### Andre Lins
@@ -21,3 +21,13 @@ Doutorando em Informática pela UFPR, Mestre em Informática pela UTFPR e Especi
 ### Amanda Pinto
 <img src="https://webdev.alfaumuarama.edu.br/arquivos/1617200404g.jpg" width="100">
 Amanda é fundadora do DevOps Bootcamp e Embaixadora DevOps no Brasil. Possui especialização em Gestão de Tecnologia e MBA em Metodologias Ágeis e Práticas DevOps, além de certificados Agile Scrum Foundation e DevOps Foundation, com mais de 18 anos de experiência em TI.
+
+## Mauricio "Maujor" Samy Silva
+<img src="https://webdev.alfaumuarama.edu.br/arquivos/1618591041g.jpg" width="100">
+Maujor, O Dinossauro das CSS, é um dos introdutores das CSS no Brasil.
+
+Criou e mantém o site (https://maujor.com) destinado ao ensino das CSS e dos Padrões Web.
+
+É um ativo frequentador de fóruns, escreve para vários portais brasileiros voltados a desenvolvedores web, é autor de artigos e de trabalhos relacionados às CSS publicados em diversos sites de desenvolvimento web.
+
+Maujor é autor de 17 livros sobre técnicas de desenvolvimento web (https://livrosdomaujor.com.br)
